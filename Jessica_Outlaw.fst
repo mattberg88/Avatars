@@ -1,8 +1,8 @@
-name = Jessica_Outlaw
+name = Jessica_Outlaw3
 type = body+head
 scale = 1
-filename = Jessica_Outlaw/Jessica_Outlaw.fbx
-texdir = Jessica_Outlaw/textures
+filename = Jessica_Outlaw3/Jessica_Outlaw3.fbx
+texdir = Jessica_Outlaw3/textures
 joint = jointNeck = Neck
 joint = jointEyeRight = RightEye
 joint = jointEyeLeft = LeftEye
